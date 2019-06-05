@@ -18,6 +18,10 @@
   width: 10em;
 }
 
+.card {
+  width: 800px;
+}
+
 .form-control#country {
   width: 40em;
 }
@@ -25,3 +29,17 @@
 h1 {
   text-align: center;
 }
+
+#stamp {
+  float: right;
+  width: 150px;
+}
+
+.address-box p {
+  align-content: center;
+}
+
+/* .vr {
+  height: 300px;
+  width: 10px;
+} */
