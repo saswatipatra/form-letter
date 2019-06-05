@@ -1,3 +1,27 @@
 #letter {
   display: none;
 }
+
+.form-control#name {
+  width: 30em;
+}
+
+.form-control#city {
+  width: 30em;
+}
+
+.form-control#state {
+  width: 30em;
+}
+
+.form-control#zip {
+  width: 10em;
+}
+
+.form-control#country {
+  width: 40em;
+}
+
+h1 {
+  text-align: center;
+}
